@@ -6,6 +6,7 @@ function App() {
             <h2>Hospital Management System</h2>
             <h2>Nayem</h2>
             <h2>Samrat</h2>
+            <h2>S.m. Samrat</h2>
 
         </div>
     );
